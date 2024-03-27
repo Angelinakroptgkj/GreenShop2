@@ -1,0 +1,85 @@
+@font-face {
+    font-family: CeraPro-Black;
+    src: url(../fonts/CeraPro-Black.ttf);
+}
+
+@font-face {
+    font-family: CeraPro-Bold;
+    src: url(../fonts/CeraPro-Bold.ttf);
+}
+
+@font-face {
+    font-family: CeraPro-Light;
+    src: url(../fonts/CeraPro-Light.ttf);
+}
+
+@font-face {
+    font-family: CeraPro-Medium;
+    src: url(../fonts/CeraPro-Medium.ttf);
+}
+
+@font-face {
+    font-family: CeraPro-Regular;
+    src: url(../fonts/CeraPro-Regular.ttf);
+}
+body {
+    background: #FFF;
+}
+.supersale {
+    width: 337px;
+    height: 514px;
+
+}
+.body_home_filter_nav_swiper {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 18px;
+}
+.filter {
+    width: 315px;
+    height: 753px;
+    background-color: #f7f7f7;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav_swiper {
+    height: 1347px;
+    width: 840px;
+    display: grid;
+    align-content: center;
+    gap: 22px 0px;
+}
+   .nav{
+    background-color: #f7f7f7;
+    width: 838px;
+    height: 23px;
+   }
+  .swiper {
+    background-color: #f7f7f7;
+    width: 840px;
+    height: 1225px;
+}
+.zero_two{ 
+    display: flex;
+    margin-top: 270px;
+    gap: 28px;
+   }
+.card_one{
+    width: 586px;
+    height: 250px;
+    background-color: #f7f7f7;
+}
+.card_two{
+    width: 586px;
+    height: 250px;
+    background-color: #f7f7f7;
+}
+.layrar{
+    width: 292px;
+height: 292px;
+mix-blend-mode: multiply;
+}
+
